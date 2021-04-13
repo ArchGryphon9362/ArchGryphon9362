@@ -5,5 +5,7 @@
 - 📫 If you want to reach out to me, best place would be Discord as I'm most active there. My username is `ArchGryphon9362#6132`. My DM's are always open for anybody who wants to contact me, just don't forget to friend me because we're probably not in a mutual server 😅.
 
 <!--
-Psst, this if you're here, you might also want to know that I am currently working on reverse engineering the Tesla BLE connection, and it seems that progress is going well and I might have a proof-of-concept some time soon 😅, reach out to me on Discord if you wanna know more :)
+✨ The Secrets ✨
+
+If you're here, you might also want to know that I am currently working on reverse engineering the Tesla BLE connection, and it seems that progress is going well and I might have a proof-of-concept some time soon 😅, reach out to me on Discord if you wanna know more ( P.S. don't tell anybody you found this, if they want to find it, they'll find it, oh and just an fyi to surprise you a bit, I'm 14 🙂 )
 --->
