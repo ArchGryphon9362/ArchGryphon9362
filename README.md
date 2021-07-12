@@ -7,5 +7,7 @@
 <!--
 ✨ The Secrets ✨
 
-If you're here, you might also want to know that I am currently working on reverse engineering the Tesla BLE connection, and it seems that progress is going well and I might have a proof-of-concept some time soon 😅, reach out to me on Discord if you wanna know more ( P.S. don't tell anybody you found this, if they want to find it, they'll find it, oh and just an fyi to surprise you a bit, I'm 14 🙂 )
+If you're here, you might also want to know that I am currently working on reverse engineering the Tesla BLE connection, and it seems that progress is going well and I might have a proof-of-concept some time soon 😅, reach out to me on Discord if you wanna know more ( P.S. don't tell anybody you found this, if they want to find it, they'll find it, oh and just an fyi to surprise you a bit, I'm 14 🙂 ).
+
+Haha, so basically things have turned around and now I'm in the process of reverse engineering the app to find out about the BLE connection, but things are going great. I have a private repo here on GH and a public repo on my self hosted Gitea server which you can check out at https://git.kosmox.ml/ArchGryphon9362/TeslaBLE. Keep up to date with the commit messages, and my main edits are currently switching over to the "protobufDiscoveryAttempt" directory. I am really confident that I'm gonna finish this in less than a month and a half... 2 months at most. Anyways, this is a really cool project for me, so gl me :)
 --->
